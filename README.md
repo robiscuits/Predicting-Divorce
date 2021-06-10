@@ -1,3 +1,3 @@
 # Predicting-Divorce
-This is my final project for CS320 Data Programming II at UW-Madison.
-The code to create the figures and the .pdf essay can be found in the notebook. The data was sourced from the US Department of Labor's National Longitudinal Survey of Youth 1979.
+This is my final project for one of my CS Classes at Madison.
+The code to create the figures and the .pdf essay can be found in the notebook. The data was sourced from the US Department of Labor's National Longitudinal Survey of Youth 1979. I have experience with creating datasets regarding divorce, though in my case they are mined from court cases. This data is from the NLS survey. In this project, I analyzed my data using summary statistics, and then performed a PCA and a logistical regression on the data to determine the influences of demographic and family factors on likelihood of divorce.
